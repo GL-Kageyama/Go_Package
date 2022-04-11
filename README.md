@@ -1,6 +1,10 @@
 # Go Package
 
 ## Package
+All Go programs belong to some package.  
+The target package can be used by specifying it by Import.  
+You can also define a program using multiple source code files within a single package.  
+If you capitalize the initial letter of variable or function, you can refer to it from other packages.  
 
 ## Code
 ```Go
