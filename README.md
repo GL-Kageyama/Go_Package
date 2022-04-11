@@ -68,3 +68,6 @@ Subtraction    : 5
 Multiplication : 50  
 Division       : 2  
 
+## Note
+For go1.13 or later, the environment variable GO111MODULE must be set to "auto".  
+$ go env -w GO111MODULE=auto  
